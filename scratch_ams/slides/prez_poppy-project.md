@@ -99,7 +99,7 @@ The software is based on a python library, Pypot. The Electronic is based on ard
 </div>
 <img src="../pictures/github_logo.png" height="70px"/>
 
-https://github.com/poppy-project/pypot
+https://github.com/poppy-project/
 Note:
 The Poppy project intend to be a community project.
 For this purpose all our work on electronic  mechanic and software is open source and can be download, modified and redistributed.
