@@ -62,7 +62,7 @@ Nowadays, we can use V-REP, a robotic simulator to make simulations of our robot
 ## Thank you for your attention
 ### Questions?
 #### __[Théo Segonds & Pierre Rouanet][website]__  __[@poppy_project][twitter]__
-__[http://poppy-project.com][website]__
+__[http://poppy-project.org][website]__
 
 INRIA Flowers Team
 
