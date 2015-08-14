@@ -1,0 +1,7 @@
+[submodule "scratch_ams/websites/ergojr_simulator"]
+	path = scratch_ams/websites/ergojr_simulator
+	url = https://github.com/poppy-project/poppy-ergo-jr.git
+	branch = gh-pages
+[submodule "scratch_ams/websites/snap"]
+	path = scratch_ams/websites/snap
+	url = https://github.com/jmoenig/Snap--Build-Your-Own-Blocks.git
